@@ -1,0 +1,8 @@
+name = "stealth-task-example-worker"
+type = "webpack"
+
+account_id = "45eb319e689799fb4de02f172326624a"
+workers_dev = true
+route = "*"
+zone_id = ""
+compatibility_date = "2021-12-17"
